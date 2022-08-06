@@ -11,10 +11,11 @@
   </h2>
       <br/>
       <br/>
-  
+
   ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=juwon8891&show_icons=true&theme=radical)
-  
+ <!--        
   [![Velog's GitHub stats](https://velog-readme-stats-git-fork-chchaeun-main-eungyeole.vercel.app/api/list?name=juwon8891&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=juwon8891)
-  
+ 
 
  </div>
+-->
